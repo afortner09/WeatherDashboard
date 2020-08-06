@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@600&display=swap');
+* {
+    
+}
+#Dashboard {
+    background-color: #0D3346; 
+    font-size: 75px; 
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.col-sm-3 {
+    background-color: #262b2e;
+    padding-top: 15px;
+}
+
+#firstCol {
+    background-color: #0D3346;
+    height: 475px;
+    color: white;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.row-5 {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.card-body {
+    color: #0D3346;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.card-text {
+    font-size: 14px;
+}
+
+#value {
+    font-size: 20px;
+}
